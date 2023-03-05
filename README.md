@@ -1,6 +1,6 @@
-# 03 ImersaoDeV O_Mentalista
+# 03 ImersãoDEV O_Mentalista
 
-Aula 03 - Alura imersao Dev - O_Mentalista 
+Aula 03 - Alura imersãoDev - O_Mentalista 
 <p> Nesta Aula aprendemos a criar um jogo de adivinhação.</p>
 
 ## Lingagem usadas:
